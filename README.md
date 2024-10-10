@@ -1,8 +1,8 @@
 How to run the project
-1) Downlaod and install postgres, create a user and a server
+1) Downlaod and install postgres(preferred version 14.1), create a user and a server
 2) Download or clone the repository
-3) Access the backend by Cd Backen on your terminal,
-4) Run "npm i -D nodemon" in the terminal
+3) Access the backend by "Cd Backend" on your terminal,
+4) Run "npm i -D nodemon" on the terminal
 5) Then run "npm run dev"
 6) Link to swagger: http://localhost:5000/api-docs/
    
