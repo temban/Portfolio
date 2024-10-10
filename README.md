@@ -4,7 +4,8 @@ How to run the project
 3) Access the backend by Cd Backen on your terminal,
 4) Run "npm i -D nodemon" in the terminal
 5) Then run "npm run dev"
-
+6) Link to swagger: http://localhost:5000/api-docs/
+   
 NB: Change the postgres connection credentials in db.js to match yours.
 
 ![chrome_2A5ZAevadA](https://github.com/user-attachments/assets/6fe95dc7-887e-4df0-81c0-4f53222ed044)
